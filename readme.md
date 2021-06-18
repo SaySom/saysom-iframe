@@ -1,6 +1,6 @@
 # SaySom iFrame integration demo
 
-See the files `normal.html` and `parameter.html` on how to integrate SaySom in your application. It is important to set the correct permission on the iframe for SaySom to be able to run.
+See the files `normal.html` and `parameter.html` on how to integrate SaySom in your application. It is important to set the correct permission on the iframe for SaySom to be able to run. Replace the space id in the url. The url follows the format `https://web.saysom.app/{spaceId}`
 
 ## Parameters
 
