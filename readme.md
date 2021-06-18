@@ -4,4 +4,4 @@ See the files `normal.html` and `parameter.html` on how to integrate SaySom in y
 
 ## Parameters
 
-`parameter.html` shows how to hand over the participant name automatically. The url is dynamic in that case, with the format of `https://web.saysom.app/{spaceId}?name=${name}`. The url parameters should be uri escaped.
+`parameter.html` shows how to hand over the participant name automatically. The url is dynamic in that case, with the format of `https://web.saysom.app/{spaceId}?name=${name}`. The url parameters should be uri escaped.
